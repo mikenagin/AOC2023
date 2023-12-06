@@ -7,20 +7,17 @@ import java.util.Scanner;
 public class AOCMain {
 
     public static void main(String[] args) {
-        // String fileNameAOC02 = "D:\\Documents\\Course\\AdventOfCode\\src\\main\\java\\aoc02input.txt";
         // aoc02(readFile(fileNameAOC02));
-       // aoc03(readFile("D:\\Documents\\Course\\AdventOfCode\\src\\main\\java\\aoc03input.txt"));
+       // aoc03(readFile("aoc03input.txt"));
         // Part 1: 533229 is too low; 539537 is too high
         // Part 2: 74,455,545 is too low
 
-        // aoc04(readFile("D:\\Documents\\Course\\AdventOfCode\\src\\main\\java\\aoc04test.txt"));
-        // aoc04(readFile("D:\\Documents\\Course\\AdventOfCode\\src\\main\\java\\aoc04input.txt"));
+        // aoc04(readFile("aoc04test.txt"));
+        // aoc04(readFile("aoc04input.txt"));
 
 
-       //aoc05(readFile("D:\\Documents\\Course\\AdventOfCode\\src\\main\\java\\aoc05test.txt"));
-        aoc05(readFile("D:\\Documents\\Course\\AdventOfCode\\src\\main\\java\\aoc05input.txt"));
-
-
+       //aoc05(readFile("aoc05test.txt"));
+        aoc05(readFile("aoc05input.txt"));
     }
 
     private static void aoc05(List<String> fileLines) {
